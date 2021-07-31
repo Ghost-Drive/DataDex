@@ -1,2 +1,2 @@
 # DataDex
-Data Exchange 
+Data Storage Exchange Platform 
